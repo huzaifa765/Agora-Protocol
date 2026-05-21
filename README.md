@@ -1,8 +1,9 @@
 # 🗳️ Agora Protocol — Onchain Polling
 
+> The Voice of Web3 Communities.
 > Create polls, vote with your wallet,
 > results permanent on Base blockchain.
-> No manipulation. No fake votes. Pure onchain truth.
+> No bots. No manipulation. Pure truth.
 
 ![Base](https://img.shields.io/badge/Built%20on-Base-0052FF?style=for-the-badge)
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.20-363636?style=for-the-badge)
@@ -13,12 +14,12 @@
 ## 🎯 Problem It Solves
 
 Traditional polls are manipulable —
-fake votes, bots, no transparency.
+fake votes, bots, zero transparency.
 
 Agora Protocol fixes this. Every vote
 is a real wallet transaction, permanently
-recorded on Base blockchain. Immutable.
-Transparent. Trustless.
+recorded on Base. Immutable. Transparent.
+Trustless.
 
 ---
 
@@ -27,10 +28,11 @@ Transparent. Trustless.
 - 🗳️ **Create Polls** — Question + 4 options
 - 👛 **Wallet Voting** — One wallet, one vote
 - 📊 **Live Results** — Real-time vote counts
-- 🔥 **Trending Polls** — Most voted polls
-- 📂 **Categories** — Crypto, Gaming, Community, Politics, Sports, General
+- 🔥 **Trending Polls** — Most voted first
+- 📂 **6 Categories** — Crypto, Gaming, Community, Politics, Sports, General
 - 👤 **User Profiles** — All your polls in one place
-- 📡 **100% Onchain** — Everything on Base permanently
+- 🌙 **Dark / Light Mode** — User preference
+- 📡 **100% Onchain** — Everything on Base
 
 ---
 
@@ -43,35 +45,21 @@ Transparent. Trustless.
 | **Verified** | ✅ BaseScan |
 | **Compiler** | Solidity 0.8.20 |
 | **License** | MIT |
+| **Live App** | [agora-protocol.netlify.app](https://agora-protocol.netlify.app) |
 
 🔗 [View on BaseScan](https://basescan.org/address/0xe5b8237503a6fff64b48b6a5590e10ad49c0c481)
 
 ---
 
-## 🛠️ Core Functions
-
-```solidity
-createPoll(question, options, durationHours, category)
-vote(pollId, optionIndex)
-getPoll(pollId)
-getPollResults(pollId)
-getLatestPolls()
-getUserPolls(address)
-getCategoryPolls(category)
-getStats()
-getVoteInfo(pollId, address)
-```
-
----
-
 ## 🗺️ Roadmap
 
-- [x] Smart contract deployed & verified on Base
-- [ ] Frontend UI — in progress
-- [ ] Trending polls algorithm
-- [ ] Poll sharing feature
+- [x] Smart contract deployed & verified
+- [x] Frontend UI with dark/light mode
+- [x] Poll categories & filtering
+- [x] User profiles
 - [ ] Token gated polls
-- [ ] Poll analytics dashboard
+- [ ] Poll analytics
+- [ ] Mobile app
 
 ---
 
