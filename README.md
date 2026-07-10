@@ -67,6 +67,12 @@ Trustless.
 
 Built by [@Huzaifa_0101](https://twitter.com/Huzaifa_0101)
 Active on Base since Feb 2024 | 1900+ onchain transactions
+## How to Participate
+
+1. Connect wallet on Base Mainnet
+2. Browse active polls
+3. Cast your vote onchain
+4. Results recorded permanently
 
 ---
 
