@@ -73,7 +73,13 @@ Active on Base since Feb 2024 | 1900+ onchain transactions
 2. Browse active polls
 3. Cast your vote onchain
 4. Results recorded permanently
+## Contract
 
+| Contract | Address |
+|----------|---------|
+| Agora Protocol | `[contract address]` |
+
+🔗 [View on BaseScan](https://basescan.org/address/[contract address])
 ---
 
 ## 📄 License
