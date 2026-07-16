@@ -80,6 +80,13 @@ Active on Base since Feb 2024 | 1900+ onchain transactions
 | Agora Protocol | `[contract address]` |
 
 🔗 [View on BaseScan](https://basescan.org/address/[contract address])
+
+## Features
+
+- Create onchain polls in seconds
+- Community voting on Base
+- Transparent results permanently recorded
+- No admin control — fully decentralized
 ---
 
 ## 📄 License
