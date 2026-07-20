@@ -87,6 +87,12 @@ Active on Base since Feb 2024 | 1900+ onchain transactions
 - Community voting on Base
 - Transparent results permanently recorded
 - No admin control — fully decentralized
+- ## Voting Power
+
+- Equal voting — one wallet one vote
+- No token required to vote
+- No minimum balance needed
+- Open to all Base wallets
 ---
 
 ## 📄 License
