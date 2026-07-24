@@ -93,6 +93,12 @@ Active on Base since Feb 2024 | 1900+ onchain transactions
 - No token required to vote
 - No minimum balance needed
 - Open to all Base wallets
+- ## Poll Types
+
+- Yes/No polls
+- Multiple choice
+- Community surveys
+- Protocol decisions
 ---
 
 ## 📄 License
