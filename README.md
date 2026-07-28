@@ -99,6 +99,12 @@ Active on Base since Feb 2024 | 1900+ onchain transactions
 - Multiple choice
 - Community surveys
 - Protocol decisions
+- ## Technical Stack
+
+- Solidity 0.8.20
+- Base Mainnet
+- Ethers.js v6
+- Vanilla JavaScript
 ---
 
 ## 📄 License
