@@ -105,6 +105,12 @@ Active on Base since Feb 2024 | 1900+ onchain transactions
 - Base Mainnet
 - Ethers.js v6
 - Vanilla JavaScript
+- ## Use Cases
+
+- Community decisions
+- Product feedback polls
+- DAO governance votes
+- Event planning decisions
 ---
 
 ## 📄 License
