@@ -111,6 +111,12 @@ Active on Base since Feb 2024 | 1900+ onchain transactions
 - Product feedback polls
 - DAO governance votes
 - Event planning decisions
+- ## Why Decentralized Polling
+
+- No central authority controls results
+- Votes cannot be deleted or changed
+- Fully transparent on BaseScan
+- Anyone can verify results
 ---
 
 ## 📄 License
