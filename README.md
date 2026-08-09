@@ -117,6 +117,13 @@ Active on Base since Feb 2024 | 1900+ onchain transactions
 - Votes cannot be deleted or changed
 - Fully transparent on BaseScan
 - Anyone can verify results
+- ## Getting Started
+
+1. Connect wallet on Base Mainnet
+2. Browse existing polls
+3. Vote on any active poll
+4. Create your own poll
+5. Share poll link with community
 ---
 
 ## 📄 License
