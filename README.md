@@ -124,6 +124,12 @@ Active on Base since Feb 2024 | 1900+ onchain transactions
 3. Vote on any active poll
 4. Create your own poll
 5. Share poll link with community
+6. ## Community Impact
+
+- Decentralized polling on Base
+- Zero cost to vote
+- Results cannot be manipulated
+- Open to all Base wallets
 ---
 
 ## 📄 License
